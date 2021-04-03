@@ -10,3 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="left">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Adnatull&show_icons=false" alt="Adnatull" />
+ </p>
