@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on: Modular-Monolith Architecture. It's available on my repositories.
-- 🌱 I’m currently learning .......
+- 🌱 I’m currently learning React
 - 👯 I’m looking for new challenges
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ASP.NET related stuffs
